@@ -41,4 +41,5 @@ with pkgs.vimPlugins; [
   plenary-nvim
   nvim-web-devicons
   rustaceanvim
+  gopls
 ]
